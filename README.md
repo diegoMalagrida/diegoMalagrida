@@ -1,15 +1,56 @@
-# 👋 Hi, I’m @diegoMalagrida
+# 👋 Hi, I'm Diego Malagrida González
 
-- 👀 I’m interested in books, especially fantasy novels! My favorite book right now is *The Final Empire* by Brandon Sanderson. 
-- 💪 I also enjoy exercising at the gym and playing video games in my free time.
-- ✈️ My favorite hobby is definitely traveling—whenever I have the chance, I go explore new places!
-- 🌎 I love learning languages. I studied in the United States for a full year, where I improved my English, and I’m originally from Spain.
-- 🌱 I’m currently learning Java and C.
-- 🤝 I’m looking to collaborate on projects where I can improve my programming skills and learn from others.
-- 📫 How to reach me: diegomalagrida@gmail.com
-- ✨ Fun fact: I work as a receptionist during the summer at a 4-star hotel, where I interact with people from all over the world and practice different languages.
+Welcome to my GitHub profile! I'm a Computer Engineering student at the **University of the Balearic Islands (UIB)**. I’m passionate about learning and building creative solutions while improving my programming and technical skills.
 
-<!--
-diegoMalagrida/diegoMalagrida is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
--->
+---
+
+### 📊 Profile Stats
+![Profile views](https://komarev.com/ghpvc/?username=diegoMalagrida&color=brightgreen&label=Profile+Views)
+
+---
+
+### 🛠 Languages and Tools
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-68k-%23F05033?style=flat&logo=processor&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-IDE-0072CF?logo=apache-netbeans-ide&style=flat)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
+
+### 🔍 Featured Projects
+
+- 🛳️ [Battleship (Hundir la Flota)](https://github.com/diegoMalagrida/Practica_Programacion_I) - Final project for **Programming I**, developed in Java.
+- 🕹️ [Pacman in Assembly](#) - Final project for **Computer Architecture II**, developed using Easy68K.
+- 💻 [Mini Shell](#) - **Operating Systems** project to manage processes and threads in C.
+
+---
+
+### 🌱 Currently Learning:
+- Advanced programming in **C** and **Java**.
+- Development in **Assembly (Easy68K)**.
+- Operating system concepts, including process and thread management.
+
+---
+
+### 🤝 Looking to:
+- Collaborate on projects involving **Java** or **C** development.
+- Improve my **software development skills** and gain more experience working in teams.
+
+---
+
+### 📈 GitHub Stats
+
+![Diego's GitHub Stats](https://github-readme-stats.vercel.app/api?username=diegoMalagrida&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoMalagrida&layout=compact&theme=radical)
+
+---
+
+### 📬 How to Reach Me:
+- **Email:** [diegomalagrida@gmail.com](mailto:diegomalagrida@gmail.com)
+- **LinkedIn:** [Diego Malagrida](https://linkedin.com/in/diegomalagrida)
+
+---
+
+✨ _"Improving every day is the goal."_ ✨
