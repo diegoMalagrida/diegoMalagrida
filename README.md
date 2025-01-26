@@ -50,7 +50,8 @@ Welcome to my GitHub profile! I'm a Computer Engineering student at the **Univer
 ---
 
 ### 📬 How to Reach Me:
-- **Email:** [diegomalagrida@gmail.com](mailto:diegomalagrida@gmail.com)
+- **Email:** [diegomalagrida@gmail.com](mailto:diegomalagrida@gmail.com)  
+  <sub>_Copy the email above to contact me!_</sub>
 - **LinkedIn:** [Diego Malagrida](https://linkedin.com/in/diegomalagrida)
 
 ---
