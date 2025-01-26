@@ -31,6 +31,7 @@ Welcome to my GitHub profile! I'm a Computer Engineering student at the **Univer
 - Advanced programming in **C** and **Java**.
 - Development in **Assembly (Easy68K)**.
 - Operating system concepts, including process and thread management.
+- **Database design and management**, including SQL basics and relational models.
 
 ---
 
@@ -44,6 +45,7 @@ Welcome to my GitHub profile! I'm a Computer Engineering student at the **Univer
 
 ![Diego's GitHub Stats](https://github-readme-stats.vercel.app/api?username=diegoMalagrida&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoMalagrida&layout=compact&theme=radical)
+
 
 ---
 
