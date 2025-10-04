@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I'm Diego Malagrida González</h1>
 
 <p align="center">
-  💻 Computer Engineering student at <strong>University of the Balearic Islands (UIB)</strong>.<br>
-  🚀 Passionate about building creative solutions, improving my skills, and exploring new technologies.
+  💻 Computer Engineering student at the <strong>University of the Balearic Islands (UIB)</strong>.<br>
+  🚀 Passionate about building creative solutions, exploring new technologies, and continuously improving my programming skills.
 </p>
 
 ---
@@ -10,79 +10,84 @@
 ## 🧠 About Me
 
 - 🎓 Currently pursuing a degree in Computer Engineering.  
-- 💡 Focused on learning, improving, and applying my skills in real-world projects.  
-- 🤖 Interested in Artificial Intelligence, backend development, and system optimization.  
-- 🌍 Always excited to collaborate on open-source projects and contribute to meaningful software.
+- 🤖 Focused on backend development, low-level programming, and Artificial Intelligence.  
+- 🧩 I enjoy solving complex problems and turning ideas into working software.  
+- 🌍 Always open to collaborating on open-source projects and learning from other developers.
 
 ---
 
 ## 🛠️ Languages & Tools
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-</div>
+### 💻 Core Technologies
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-68k-%23F05033?style=for-the-badge&logo=processor&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+
+### 🛠 Tools & Environments
+
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-IDE-0072CF?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-## 🌱 Currently Learning
+## 🚀 Featured Projects
 
-- ⚙️ Advanced programming in **C** and **Java**  
-- 🧵 Low-level development with **Assembly (Easy68K)**  
-- 🖥️ **Operating Systems** fundamentals: process and thread management  
-- 🗄️ **Database** design and management with SQL and relational models  
-- 🧠 **Python for AI**: Machine Learning, Deep Learning, and Intelligent Agents  
+- 🛳️ [**Battleship (Hundir la Flota)**](https://github.com/diegoMalagrida/Practica_Programacion_I) – Final project for **Programming I**, built in Java.  
+- 🧠 **Pacman in Assembly** – Final project for **Computer Architecture II**, implemented with **Easy68K**.  
+- 🐚 **Mini Shell** – Custom shell in **C** for **Operating Systems**, handling processes and threads.
+
+---
+
+## 📚 Currently Learning
+
+- ⚙️ Advanced programming with **C** and **Java**.  
+- 🧵 Low-level development using **Assembly (Easy68K)**.  
+- 🖥️ Operating Systems fundamentals: **process** and **thread management**.  
+- 🗄️ Database design and management with **SQL**.  
+- 🤖 Python for **AI**, **Machine Learning**, and **Intelligent Agents**.
+
+---
+
+## 🤝 Looking to
+
+- Collaborate on projects involving **Java**, **C**, or **systems programming**.  
+- Gain experience in **software development**, **AI**, and **team-based projects**.  
+- Contribute to meaningful **open-source** initiatives.
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&text=%F0%9F%93%88%20GitHub%20Stats&fontSize=60&fontColor=FFFFFF&fontAlign=50&fontAlignY=80&theme=cobalt" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diegoMalagrida&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diegoMalagrida&layout=compact&theme=tokyonight&langs_count=6" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=diegoMalagrida&show_icons=true&theme=radical&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoMalagrida&layout=compact&theme=radical" height="150" />
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=diegoMalagrida&theme=react-dark&area=true&hide_border=false" height="300" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=diegoMalagrida&theme=react-dark&area=true" height="300" />
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diegoMalagrida/diegoMalagrida/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diegoMalagrida/diegoMalagrida/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/diegoMalagrida/diegoMalagrida/output/pacman-contribution-graph.svg">
-</picture>
 
 ---
 
 ## 📫 How to Reach Me
 
-- ✉️ Email: [your.email@example.com](mailto:your.email@example.com)  
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-- 🌐 Portfolio: [https://your-portfolio.com](https://your-portfolio.com)
+- ✉️ **Email:** [diegomalagrida@gmail.com](mailto:diegomalagrida@gmail.com)  
+- 💼 **LinkedIn:** [Diego Malagrida](https://linkedin.com/in/diegomalagrida)  
 
 ---
 
+<p align="center"><em>"Improving every day is the goal."</em></p>
+
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=diegoMalagrida.diegoMalagrida&left_text=Profile%20Views" />
+  <img src="https://komarev.com/ghpvc/?username=diegoMalagrida&color=brightgreen&label=Profile+Views" />
 </div>
