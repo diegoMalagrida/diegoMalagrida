@@ -16,11 +16,9 @@
 
 ---
 
-###
 
 <img align="right" height="150" src="https://media.tenor.com/5uCC2ilwcm8AAAAj/arch-i-use-arch-btw.gif"  />
 
-###
 
 ## 💻 Core Technologies, Tools & Environments
 <div align="left">
