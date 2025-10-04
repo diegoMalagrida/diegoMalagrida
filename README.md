@@ -50,7 +50,6 @@
 
 ## 🤝 Looking to
 
-- Collaborate on projects involving **Java**, **C**, or **systems programming**.  
 - Gain experience in **software development**, **AI**, and **team-based projects**.  
 - Contribute to meaningful **open-source** initiatives.
 
