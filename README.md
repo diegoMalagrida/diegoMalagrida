@@ -38,7 +38,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo" />
 </div>
 
-<br/><br/>
+<br/>
 <br clear="both" />
 
 ---
