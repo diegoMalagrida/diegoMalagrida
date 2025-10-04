@@ -86,8 +86,6 @@
 
 ---
 
-<p align="center"><em>"Improving every day is the goal."</em></p>
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=diegoMalagrida&color=brightgreen&label=Profile+Views" />
 </div>
