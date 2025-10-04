@@ -1,59 +1,71 @@
-# 👋 Hi, I'm Diego Malagrida González
+<h1 align="left">👋 Hi, I'm Diego Malagrida González</h1>
 
-Welcome to my GitHub profile! I'm a Computer Engineering student at the **University of the Balearic Islands (UIB)**. I’m passionate about learning and building creative solutions while improving my programming and technical skills.
+###
 
----
+<p align="left">Welcome to my GitHub profile! I'm a Computer Engineering student at the University of the Balearic Islands (UIB). I’m passionate about learning and building creative solutions while improving my programming and technical skills.</p>
 
-### 📊 Profile Stats
-![Profile views](https://komarev.com/ghpvc/?username=diegoMalagrida&color=brightgreen&label=Profile+Views)
+###
 
----
+<h3 align="left">📊 Profile Stats</h3>
 
-### 🛠 Languages and Tools
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-68k-%23F05033?style=flat&logo=processor&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-IDE-0072CF?logo=apache-netbeans-ide&style=flat)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+###
 
----
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=diegoMalagrida.diegoMalagrida&left_text=Profile%20Views"  />
+</div>
 
-### 🔍 Featured Projects
+###
 
-- 🛳️ [Battleship (Hundir la Flota)](https://github.com/diegoMalagrida/Practica_Programacion_I) - Final project for **Programming I**, developed in Java.
-- 🕹️ [Pacman in Assembly](#) - Final project for **Computer Architecture II**, developed using Easy68K.
-- 💻 [Mini Shell](#) - **Operating Systems** project to manage processes and threads in C.
+<h3 align="left">🛠 Languages and Tools</h3>
 
----
+###
 
-### 🌱 Currently Learning:
-- Advanced programming in **C** and **Java**.
-- Development in **Assembly (Easy68K)**.
-- Operating system concepts, including process and thread management.
-- **Database design and management**, including SQL basics and relational models.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
 
----
+###
 
-### 🤝 Looking to:
-- Collaborate on projects involving **Java** or **C** development.
-- Improve my **software development skills** and gain more experience working in teams.
+<h3 align="left">🌱 Currently Learning:</h3>
 
----
+###
 
-### 📈 GitHub Stats
+<p align="left">Advanced programming in C and Java.<br><br>Low-level development with Assembly (Easy68K).<br><br>Operating Systems fundamentals: process and thread management.<br><br>Database design and management: SQL basics and relational models.<br><br>Python applied to Artificial Intelligence, including Machine Learning, Deep Learning, and Intelligent Agents.</p>
 
-![Diego's GitHub Stats](https://github-readme-stats.vercel.app/api?username=diegoMalagrida&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoMalagrida&layout=compact&theme=radical)
+###
 
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=%F0%9F%93%88%20GitHub%20Stats&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=78&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
----
+###
 
-### 📬 How to Reach Me:
-- **Email:** [diegomalagrida@gmail.com](mailto:diegomalagrida@gmail.com)  
-  <sub>_Copy the email above to contact me!_</sub>
-- **LinkedIn:** [Diego Malagrida](https://linkedin.com/in/diegomalagrida)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=diegoMalagrida&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diegoMalagrida&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=diegoMalagrida&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
----
+###
 
-✨ _"Improving every day is the goal."_ ✨
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diegoMalagrida/diegoMalagrida/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diegoMalagrida/diegoMalagrida/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/diegoMalagrida/diegoMalagrida/output/pacman-contribution-graph.svg">
+</picture>
+
+###
