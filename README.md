@@ -88,7 +88,6 @@
   <img src="https://komarev.com/ghpvc/?username=diegoMalagrida&color=brightgreen&label=Profile+Views" />
 </div>
 
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diegoMalagrida/diegoMalagrida/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diegoMalagrida/diegoMalagrida/output/pacman-contribution-graph.svg">
