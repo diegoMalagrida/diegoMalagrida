@@ -40,14 +40,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-- 🛳️ [**Battleship (Hundir la Flota)**](https://github.com/diegoMalagrida/Practica_Programacion_I) – Final project for **Programming I**, built in Java.  
-- 🧠 **Pacman in Assembly** – Final project for **Computer Architecture II**, implemented with **Easy68K**.  
-- 🐚 **Mini Shell** – Custom shell in **C** for **Operating Systems**, handling processes and threads.
-
----
-
 ## 📚 Currently Learning
 
 - ⚙️ Advanced programming with **C** and **Java**.  
