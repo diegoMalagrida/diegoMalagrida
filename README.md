@@ -16,11 +16,9 @@
 
 ---
 
-
+## 💻 Core Technologies, Tools & Environments
 <img align="right" height="150" src="https://media.tenor.com/5uCC2ilwcm8AAAAj/arch-i-use-arch-btw.gif"  />
 
-
-## 💻 Core Technologies, Tools & Environments
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
