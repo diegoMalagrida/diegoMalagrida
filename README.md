@@ -17,10 +17,6 @@
 ---
 
 ## 💻 Core Technologies, Tools & Environments
-
-<!-- 👉 GIF a la derecha (pon tu GIF en /assets/arch-linux.gif) -->
-<img align="right" height="150" src="assets/arch-linux.gif" alt="Arch Linux" />
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
@@ -38,10 +34,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
-
-<!-- Evita que el texto siguiente se envuelva alrededor del GIF -->
-<br clear="both" />
-
 ---
 
 ## 📚 Currently Learning
