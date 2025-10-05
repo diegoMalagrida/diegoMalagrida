@@ -80,7 +80,7 @@
 ## 📫 How to Reach Me
 
 - ✉️ **Email:** [diegomalagrida@gmail.com](mailto:diegomalagrida@gmail.com)  
-- 💼 **LinkedIn:** [Diego Malagrida]([https://linkedin.com/in/diegomalagrida](https://www.linkedin.com/in/diego-malagrida-gonzalez-735685388/))  
+- 💼 **LinkedIn:** [Diego Malagrida]([https://linkedin.com/in/diegomalagrida](https://www.linkedin.com/in/diego-malagrida-gonzalez-735685388)  
 
 ---
 
