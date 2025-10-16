@@ -85,7 +85,7 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=diegoMalagrida&color=brightblue&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=diegoMalagrida&color=brightgreen&label=Profile+Views" />
 </div>
 
 <br/>
