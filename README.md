@@ -16,6 +16,8 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="Visual Studio Code" />
   <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ IDEA" />
+  <img width="10" />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/codex-color.png" />
     <img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/codex-color.png" width="40" height="40" alt="OpenAI Codex" />
