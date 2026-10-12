@@ -1,8 +1,7 @@
 <h1 align="center">👋 Diego Malagrida González</h1>
 
 <p align="center">
-  Computer Engineering student at the <strong>University of the Balearic Islands (UIB)</strong>.<br>
-  Passionate about building creative solutions, exploring new technologies, and continuously improving my programming skills.
+  Computer Engineering student at the <strong>University of the Balearic Islands (UIB)</strong>. Intern at <a href="https://civaxis.io/"><strong>CIVAXIS</strong></a>.
 </p>
 
 <div align="center">
@@ -34,10 +33,3 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
 </div>
-
-<hr>
-
-### 📫 Contacto
-
-* ✉️ [diegomalagrida@gmail.com](mailto:diegomalagrida@gmail.com)
-* 💼 [LinkedIn](https://www.linkedin.com/in/diego-malagrida-gonzalez-735685388)
